@@ -1,0 +1,15 @@
+1) fibonacci
+2) 0-1 knapsack  https://practice.geeksforgeeks.org/problems/0-1-knapsack-problem0945/1
+3) unbounded knapsack
+4) lcs(longest common subsequence)
+   i) longest common substring
+   ii) longest increasing subsequence  -> lcs on sorted unique elemnets 
+   iii) Edit Distance
+   iv) String conversion
+
+Wildcard Matching  ->  https://leetcode.com/problems/wildcard-matching/description/
+
+5) Kadane algo
+6) Catalan Number
+7) DP on grid
+8) 
